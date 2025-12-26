@@ -1,0 +1,47 @@
+{
+  "success": true,
+  "message": "Cart fetched successfully",
+  "data": {
+    "cartId": 5001,
+    "totalItems": 3,
+    "totalPrice": 438.00,
+    "totalMrp": 480.00,
+    "totalDiscount": 42.00,
+    "items": [
+      {
+        "cartItemId": 1,
+        "productId": 101,
+        "productName": "Tata Salt 1kg",
+        "imageUrl": "https://images.unsplash.com/photo-1615485925511-48f42e315b2c?w=800&h=800&fit=crop",
+        "price": 28.00,
+        "mrp": 30.00,
+        "quantity": 2,
+        "subtotal": 56.00,
+        "inStock": true
+      },
+      {
+        "cartItemId": 2,
+        "productId": 102,
+        "productName": "Fortune Sunflower Oil 1L",
+        "imageUrl": "https://images.unsplash.com/photo-1474979266404-7eaacbcd87c5?w=800&h=800&fit=crop",
+        "price": 185.00,
+        "mrp": 200.00,
+        "quantity": 1,
+        "subtotal": 185.00,
+        "inStock": true
+      },
+      {
+        "cartItemId": 3,
+        "productId": 103,
+        "productName": "Basmati Rice 5kg",
+        "imageUrl": "https://images.unsplash.com/photo-1586201375761-83865001e31c?w=800&h=800&fit=crop",
+        "price": 197.00,
+        "mrp": 250.00,
+        "quantity": 1,
+        "subtotal": 197.00,
+        "inStock": true
+      }
+    ]
+  }
+}
+

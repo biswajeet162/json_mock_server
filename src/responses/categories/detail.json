@@ -1,0 +1,13 @@
+{
+  "success": true,
+  "message": "Category fetched successfully",
+  "data": {
+    "id": 10,
+    "name": "Grocery",
+    "slug": "grocery",
+    "imageUrl": "https://images.unsplash.com/photo-1542838132-92c53300491e?w=400&h=400&fit=crop",
+    "parentId": 1,
+    "level": 2
+  }
+}
+

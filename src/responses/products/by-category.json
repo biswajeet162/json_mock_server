@@ -1,0 +1,57 @@
+{
+  "success": true,
+  "message": "Products by category retrieved successfully",
+  "data": [
+    {
+      "id": 1,
+      "name": "Wireless Headphones",
+      "price": 1999.00,
+      "mrp": 2499.00,
+      "discountPercentage": 20.0,
+      "imageUrl": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=800&h=800&fit=crop",
+      "rating": 4.5,
+      "stockAvailable": true
+    },
+    {
+      "id": 2,
+      "name": "Smart Watch",
+      "price": 2999.00,
+      "mrp": 3499.00,
+      "discountPercentage": 14.3,
+      "imageUrl": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=800&h=800&fit=crop",
+      "rating": 4.7,
+      "stockAvailable": true
+    },
+    {
+      "id": 4,
+      "name": "Mechanical Keyboard",
+      "price": 1299.00,
+      "mrp": 1499.00,
+      "discountPercentage": 13.3,
+      "imageUrl": "https://images.unsplash.com/photo-1587829741301-dc798b83add3?w=800&h=800&fit=crop",
+      "rating": 4.6,
+      "stockAvailable": false
+    },
+    {
+      "id": 8,
+      "name": "Webcam HD",
+      "price": 1499.00,
+      "mrp": 1999.00,
+      "discountPercentage": 25.0,
+      "imageUrl": "https://images.unsplash.com/photo-1587825147138-34637d2c6c8d?w=800&h=800&fit=crop",
+      "rating": 4.8,
+      "stockAvailable": true
+    },
+    {
+      "id": 9,
+      "name": "Bluetooth Speaker",
+      "price": 1799.00,
+      "mrp": 2299.00,
+      "discountPercentage": 21.7,
+      "imageUrl": "https://images.unsplash.com/photo-1608043152269-423dbba4e7e1?w=800&h=800&fit=crop",
+      "rating": 4.5,
+      "stockAvailable": true
+    }
+  ]
+}
+

@@ -1,0 +1,31 @@
+{
+  "success": true,
+  "message": "Child categories fetched",
+  "data": [
+    {
+      "id": 11,
+      "name": "Rice & Grains",
+      "slug": "rice-grains",
+      "imageUrl": "https://images.unsplash.com/photo-1586201375761-83865001e31c?w=400&h=400&fit=crop"
+    },
+    {
+      "id": 12,
+      "name": "Pulses & Lentils",
+      "slug": "pulses-lentils",
+      "imageUrl": "https://images.unsplash.com/photo-1593113598332-cd288d649433?w=400&h=400&fit=crop"
+    },
+    {
+      "id": 16,
+      "name": "Spices & Masalas",
+      "slug": "spices-masalas",
+      "imageUrl": "https://images.unsplash.com/photo-1596040033229-a9821ebd058d?w=400&h=400&fit=crop"
+    },
+    {
+      "id": 17,
+      "name": "Oil & Ghee",
+      "slug": "oil-ghee",
+      "imageUrl": "https://images.unsplash.com/photo-1474979266404-7eaacbcd87c5?w=400&h=400&fit=crop"
+    }
+  ]
+}
+

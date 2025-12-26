@@ -1,0 +1,132 @@
+{
+  "success": true,
+  "message": "Categories fetched successfully",
+  "data": [
+    {
+      "id": 1,
+      "name": "FMCG",
+      "slug": "fmcg",
+      "imageUrl": "https://images.unsplash.com/photo-1556910103-1c02745aae4d?w=400&h=400&fit=crop",
+      "children": [
+        {
+          "id": 10,
+          "name": "Grocery",
+          "slug": "grocery",
+          "imageUrl": "https://images.unsplash.com/photo-1542838132-92c53300491e?w=400&h=400&fit=crop",
+          "children": [
+            {
+              "id": 11,
+              "name": "Rice & Grains",
+              "slug": "rice-grains",
+              "imageUrl": "https://images.unsplash.com/photo-1586201375761-83865001e31c?w=400&h=400&fit=crop",
+              "children": []
+            },
+            {
+              "id": 12,
+              "name": "Pulses & Lentils",
+              "slug": "pulses-lentils",
+              "imageUrl": "https://images.unsplash.com/photo-1593113598332-cd288d649433?w=400&h=400&fit=crop",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": 13,
+          "name": "Beverages",
+          "slug": "beverages",
+          "imageUrl": "https://images.unsplash.com/photo-1554866585-cd94860890b7?w=400&h=400&fit=crop",
+          "children": [
+            {
+              "id": 14,
+              "name": "Soft Drinks",
+              "slug": "soft-drinks",
+              "imageUrl": "https://images.unsplash.com/photo-1554866585-cd94860890b7?w=400&h=400&fit=crop",
+              "children": []
+            },
+            {
+              "id": 15,
+              "name": "Juices",
+              "slug": "juices",
+              "imageUrl": "https://images.unsplash.com/photo-1600271886742-f049cd451bba?w=400&h=400&fit=crop",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Electronics",
+      "slug": "electronics",
+      "imageUrl": "https://images.unsplash.com/photo-1498049794561-7780e7231661?w=400&h=400&fit=crop",
+      "children": [
+        {
+          "id": 20,
+          "name": "Mobile Phones",
+          "slug": "mobile-phones",
+          "imageUrl": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?w=400&h=400&fit=crop",
+          "children": []
+        },
+        {
+          "id": 21,
+          "name": "Laptops",
+          "slug": "laptops",
+          "imageUrl": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?w=400&h=400&fit=crop",
+          "children": []
+        },
+        {
+          "id": 22,
+          "name": "Accessories",
+          "slug": "electronics-accessories",
+          "imageUrl": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=400&h=400&fit=crop",
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Fashion",
+      "slug": "fashion",
+      "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=400&h=400&fit=crop",
+      "children": [
+        {
+          "id": 30,
+          "name": "Men's Clothing",
+          "slug": "mens-clothing",
+          "imageUrl": "https://images.unsplash.com/photo-1617137968427-85924c800a22?w=400&h=400&fit=crop",
+          "children": []
+        },
+        {
+          "id": 31,
+          "name": "Women's Clothing",
+          "slug": "womens-clothing",
+          "imageUrl": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=400&h=400&fit=crop",
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Home & Kitchen",
+      "slug": "home-kitchen",
+      "imageUrl": "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=400&h=400&fit=crop",
+      "children": [
+        {
+          "id": 40,
+          "name": "Cookware",
+          "slug": "cookware",
+          "imageUrl": "https://images.unsplash.com/photo-1556911220-bff31c812dba?w=400&h=400&fit=crop",
+          "children": []
+        },
+        {
+          "id": 41,
+          "name": "Storage",
+          "slug": "storage",
+          "imageUrl": "https://images.unsplash.com/photo-1556911220-bff31c812dba?w=400&h=400&fit=crop",
+          "children": []
+        }
+      ]
+    }
+  ]
+}
+
