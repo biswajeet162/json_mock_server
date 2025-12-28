@@ -1,0 +1,9 @@
+{
+    "success": true,
+    "message": "OTP sent successfully for registration",
+    "data": {
+        "otpRefId": "OTP-REF-SIGNUP-123456",
+        "expiresInSeconds": 300
+    }
+}
+

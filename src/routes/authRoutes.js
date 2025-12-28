@@ -23,6 +23,23 @@ router.post('/login', (req, res) => {
 });
 
 /**
+ * POST /api/v1/auth/signup
+ * Sign up using mobile number (OTP will be sent)
+ */
+router.post('/signup', (req, res) => {
+    const filePath = path.join(responsesPath, 'signup.json');
+    res.sendFile(filePath, (err) => {
+        if (err) {
+            res.status(500).json({
+                success: false,
+                message: 'Error sending OTP for registration',
+                error: err.message
+            });
+        }
+    });
+});
+
+/**
  * POST /api/v1/auth/verify-otp
  * Verify OTP and issue JWT tokens
  */
